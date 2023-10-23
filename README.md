@@ -17,6 +17,7 @@ Consolidating information from:
 ### Tools Used
 
 - Figma
+- Illustrator
 
 ### Workflow
 
