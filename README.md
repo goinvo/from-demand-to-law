@@ -1,4 +1,4 @@
-# fromdemand-to-law.github.io
+# From Demand to Law
 A roadmap of the initiative petition process to inspire and help folks get started on their own proposals of law.
 ## Project Overview
 Hello and welcome!
