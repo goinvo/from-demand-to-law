@@ -44,7 +44,7 @@ We are looking for feedback on the following aspects (but feel free to share tho
 
 ### How to Provide Feedback
 
-1. **Option 1:** 
+1. **Option 1:** If you have a Figma account, comment on the prototype.
 
 2. **Option 2:** Send feedback via email to [email@example.com](mailto:email@example.com).
 
