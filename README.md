@@ -16,6 +16,11 @@ Empowerment: Equips users with the knowledge to engage in direct democracy.
 Accessibility: Brings clarity to a traditionally complex process.
 Inclusivity: Designed for everyone, from seasoned activists to first-time participants.
 
+## Documentation
+Core Research Document URL: https://docs.google.com/document/d/1XmYDSI5mG2RHkalTGsUxU25Ql2mb6p-5_qy6OnkpFpc/edit?usp=sharing
+Figma Demo URL: https://www.figma.com/proto/16z9nUniDLWDLNZQwgXTjm/From-Thought-to-Law?page-id=0%3A1&type=design&node-id=321-8816&viewport=-1508%2C-381%2C0.09&t=RwJieGAsiURwnYFN-1&scaling=scale-down&starting-point-node-id=321%3A8816&mode=design
+Figma All Content Prototype URL: https://www.figma.com/proto/16z9nUniDLWDLNZQwgXTjm/From-Thought-to-Law?page-id=0%3A1&type=design&node-id=331-9211&viewport=-1508%2C-381%2C0.09&t=RwJieGAsiURwnYFN-1&scaling=scale-down&starting-point-node-id=331%3A9211&show-proto-sidebar=1&mode=design
+
 ## Design Process
 
 ### Research
@@ -46,7 +51,7 @@ We are looking for feedback on the following aspects (but feel free to share tho
 
 1. **Option 1:** If you have a Figma account, comment on the prototype.
 
-2. **Option 2:** Send feedback via email to [email@example.com](mailto:email@example.com).
+2. **Option 2:** Send feedback via email to [demand2law@goinvo.com](mailto:demand2law@goinvo.com).
 
 ## Acknowledgements
 
